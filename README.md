@@ -1,4 +1,4 @@
-# okta-auth-app
+# Simple authentication app using Okta, Node and Express 
 Simple App Using Okta for Token Authentication in Node + Express. This app is Express-based Node app that uses OKTA identity access management provider to secure authentication token. 
 
 ## Get Started
