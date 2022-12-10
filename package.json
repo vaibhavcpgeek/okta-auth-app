@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "@okta/jwt-verifier": "0.0.14",
-    "express": "^4.16.4"
+    "express": "^4.17.3"
   }
 }
